@@ -21,7 +21,7 @@ function App() {
   const handleSend=async ()=>{
     if(input.trim!=""){
       const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
-console.log("API Key:", apiKey);
+// console.log("API Key:", apiKey);
       const genAI=new GoogleGenerativeAI(apiKey)
       const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" })
       const promptInput="You are my assistant, responding directly to recruiters based on the following user information. Provide precise, positive, and complete answers. If specific details are not available, infer relevant strengths based on the given information. If no relevant information is found, respond with 'Information not provided.' Ensure that responses are well-structured and fully address the input User information:"+fileContent+" input: "+input
