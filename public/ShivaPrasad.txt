@@ -1,0 +1,82 @@
+SHIVA PRASAD BATTULA 
+@battulashivaprasad7@gmail.com |    +91-7396450954 |    LinkedIn link:https://www.linkedin.com/in/shiva-prasad-battula-3a94ab256/  |     GitHub link: https://github.com/Bunnygit7 |   Uppal, Hyderabad, Telangana   | Date of Birth: 07-07-2003 
+Career Objective  
+Aspiring Software Engineer with hands-on experience in developing web and desktop applications using Java, JavaScript, and 
+Spring Boot. Strong foundation in backend development, RESTful API design, database management (Oracle, SQL), and object-
+oriented programming (OOP). Proficient in Spring Boot, Servlets, JSP, JDBC, and MVC architecture, with experience in Git 
+for version control and Agile methodologies. Passionate about building scalable, high-performance applications and eager to 
+contribute problem-solving skills in a dynamic, fast-paced environment. 
+Professional Skills 
+• 
+Frontend Skills: HTML, CSS, JavaScript. 
+• 
+Backend Skills: J2SE/JavaSE, J2EE/JavaEE, Spring Core, Spring Boot. 
+• 
+Database Skills: SQL(Oracle). 
+• 
+Tools: Git, Eclipse, VS Code, IntelliJ IDEA. 
+Projects 
+ 
+Human Finder ( GitHub Link ) 
+Technologies: HTML, CSS, JavaScript, PHP, Python 
+• 
+Developed "Human Finder," a web application designed to assist in locating missing individuals by providing a user-
+friendly platform for efficient and reliable searches. 
+• 
+Enhanced  the  system's  usability  and  effectiveness  through  advanced  search  capabilities  and  automated  data 
+validation. 
+AMVB Electronics ( GitHub Link ) 
+Technologies: Java, Servlets, JSP, Oracle Database, JDBC, HTML, CSS. 
+• 
+Designed and implemented a dynamic, user-friendly web application for product management and online shopping, 
+enhancing business operations. 
+• 
+Integrated  secure  user  authentication  and  real-time  product  updates,  streamlining  the  purchasing  process  and 
+improving operational efficiency. 
+Chatter Box ( GitHub Link ) 
+Technologies: Java, Spring Boot, RESTful APIs, Oracle Database, Spring Data JPA. 
+• 
+Developed a chat application with user registration, login, and session management. 
+• 
+Implemented RESTful APIs for authentication, friend requests, messaging, and conversation retrieval. 
+• 
+Enabled users to send, accept, and manage friend requests with proper validation. 
+• 
+Designed a one-on-one messaging system with message storage and retrieval from the database. 
+Swift Reply ( GitHub Link ) 
+Technologies: Spring Boot, Spring AI, Gemini API, RESTful APIs. 
+• 
+Developed a Spring Boot-based Email Generator Application to automate email replies.  
+• 
+Enables users to customize the tone of responses (e.g., formal, polite, casual) for better personalization.  
+• 
+Provides a RESTful API for seamless integration with other applications and automated workflows. 
+Education 
+Bachelor of Science in Mathematics, Electronics, & Computer Science (2021-2024) 
+Little Flower Degree College, Uppal, Hyderabad, Telangana;                                                                                            
+CGPA:9.05 
+Higher Secondary Education (2019-2021) 
+Narayana Junior College, Hayatnagar, Hyderabad, Telangana;  
+Percentage:93.6% 
+Secondary Education (2019) 
+Zilla Parishad High School, Bheemgal, Nizamabad, Telangana;                                                                                            
+CGPA:9.5 
+Roles & Responsibilities 
+• 
+Provided  guidance  and  support  to  fellow  students  on  various  projects,  facilitating  skill  development  and  fostering 
+collaborative learning environments. 
+• 
+Served as a class representative for two years, effectively communicating student needs and concerns to faculty while 
+organizing events and fostering a collaborative class environment. 
+• 
+As a student coordinator for the Alan Turing Club, organized inter- and intra-college competitions in the physical 
+sciences, managing logistics and promoting student participation to encourage scientific engagement. 
+ 
+Hobbies
+• Cooking
+• Editing
+• Writing
+Languages
+• English - Proficient
+• Telugu - Native
+• Hindi - Proficient
