@@ -21,7 +21,7 @@ function App() {
   const handleSend=async ()=>{
     if(input.trim!=""){
       
-      const genAI=new GoogleGenerativeAI("AIzaSyBh2vI26bxC2fi7R-n2u1701t5v2d-IRxA")
+      const genAI=new GoogleGenerativeAI(process.env.REACT_APP_GEMINI_API)
       const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" })
       const promptInput="You are my assistant, responding directly to recruiters based on the following user information. Provide precise, positive, and complete answers. If specific details are not available, infer relevant strengths based on the given information. If no relevant information is found, respond with 'Information not provided.' Ensure that responses are well-structured and fully address the input User information:"+fileContent+" input: "+input
       const result = await model.generateContent(promptInput);
